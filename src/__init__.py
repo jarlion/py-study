@@ -1,4 +1,4 @@
-import lesson_1;
+import lesson_1
 
 if __name__ == "__main__":
-    lesson_1.main();
+    lesson_1.main()
